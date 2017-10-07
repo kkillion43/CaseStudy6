@@ -1,5 +1,5 @@
 # CaseStudy6
-___Data Science in R
+___Data Science in R<br>
 A Case Studies Approach to 
 Computational Reasoning  
 and Problem Solving___
