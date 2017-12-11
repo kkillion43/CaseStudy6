@@ -14,10 +14,9 @@ USA
 
 Real Time Location Exercise
 
-![img src]()
-![img src]()
-![img src]()
-![img src]()
-![img src]()
-![img src]()
+![img src](https://github.com/kkillion43/CaseStudy6/blob/master/TwoMacComparison.png)
+![img src](https://github.com/kkillion43/CaseStudy6/blob/master/Geo_ScatterMean-Median.png)
+![img src](https://github.com/kkillion43/CaseStudy6/blob/master/GEO_FloorPlanK1Errors.png)
+![img src](https://github.com/kkillion43/CaseStudy6/blob/master/GEO_FloorPlanK3Errors.png)
+![img src](https://github.com/kkillion43/CaseStudy6/blob/master/Geo_CVChoiceOfK.png)
 
